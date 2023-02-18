@@ -1,6 +1,6 @@
 ![Header](https://github.com/MykhailoBhantsev/mykhailobhantsev/blob/main/assets/M.png)(https://www.linkedin.com/in/mykhailobgantsev/)
 
-About me
+## I`m a beginner QA and QC Software Engineer
 
 Languages and Tools
 
